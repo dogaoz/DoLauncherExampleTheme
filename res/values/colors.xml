@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <color name="do_feed_clock">#FFFFFFFF</color>
+        <color name="do_feed_date_weather_color">#FFFFFFFF</color>
+        <color name="do_feed_ampm_color">#FFFFFFFF</color>
+        <color name="do_feed_weatherstatus_clr_filter">#FFFFFFFF</color>
+    </resources>

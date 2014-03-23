@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Theme and App Name -->
+    <string name="app_name">Sense 5 Theme</string>
+<!--   -->    
+
+    
+    <!-- Column Number Of Do-feed -->
+    <string name="column_number">1</string>
+    
+    <!-- If We want to put clock to top or bottom -->
+    <!-- Integer 1 means TOP , 0 means BOTTOM -->
+	<string name="clock_top">1</string>
+	
+	
+	<!-- Everything else -->
+	    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	
+</resources>
