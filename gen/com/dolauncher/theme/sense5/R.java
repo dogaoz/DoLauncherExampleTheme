@@ -15,6 +15,7 @@ public final class R {
         public static final int do_feed_clock=0x7f040000;
         public static final int do_feed_date_weather_color=0x7f040001;
         public static final int do_feed_weatherstatus_clr_filter=0x7f040003;
+        public static final int dofeed_loading_color=0x7f040004;
     }
     public static final class dimen {
         /**  Default screen margins, per the Android Design guidelines. 

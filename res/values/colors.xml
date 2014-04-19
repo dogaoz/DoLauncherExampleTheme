@@ -4,4 +4,7 @@
         <color name="do_feed_date_weather_color">#FFFFFFFF</color>
         <color name="do_feed_ampm_color">#FFFFFFFF</color>
         <color name="do_feed_weatherstatus_clr_filter">#FFFFFFFF</color>
+                <color name="dofeed_loading_color">#FF003B90</color>
+        
+        
     </resources>
