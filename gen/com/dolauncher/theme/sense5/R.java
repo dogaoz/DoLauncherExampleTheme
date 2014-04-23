@@ -28,15 +28,37 @@ public final class R {
         public static final int activity_vertical_margin=0x7f050001;
     }
     public static final class drawable {
-        public static final int dofeed_bg=0x7f020000;
-        public static final int dofeed_clock=0x7f020001;
-        public static final int dofeed_loading=0x7f020002;
-        public static final int exp_do_app_drawer=0x7f020003;
-        public static final int exp_do_app_drawer_normal=0x7f020004;
-        public static final int exp_do_app_drawer_pressed=0x7f020005;
-        public static final int exp_do_indrawer=0x7f020006;
-        public static final int ic_launcher=0x7f020007;
-        public static final int preview=0x7f020008;
+        public static final int do_weather_01=0x7f020000;
+        public static final int do_weather_02=0x7f020001;
+        public static final int do_weather_03=0x7f020002;
+        public static final int do_weather_04=0x7f020003;
+        public static final int do_weather_05=0x7f020004;
+        public static final int do_weather_06=0x7f020005;
+        public static final int do_weather_07=0x7f020006;
+        public static final int do_weather_08=0x7f020007;
+        public static final int do_weather_09=0x7f020008;
+        public static final int do_weather_10=0x7f020009;
+        public static final int do_weather_11=0x7f02000a;
+        public static final int do_weather_12=0x7f02000b;
+        public static final int do_weather_13=0x7f02000c;
+        public static final int do_weather_14=0x7f02000d;
+        public static final int do_weather_15=0x7f02000e;
+        public static final int do_weather_16=0x7f02000f;
+        public static final int do_weather_17=0x7f020010;
+        public static final int do_weather_18=0x7f020011;
+        public static final int do_weather_19=0x7f020012;
+        public static final int do_weather_20=0x7f020013;
+        public static final int do_weather_na=0x7f020014;
+        public static final int dofeed_bg=0x7f020015;
+        public static final int dofeed_clock=0x7f020016;
+        public static final int dofeed_loading=0x7f020017;
+        public static final int dssadf=0x7f020018;
+        public static final int exp_do_app_drawer=0x7f020019;
+        public static final int exp_do_app_drawer_normal=0x7f02001a;
+        public static final int exp_do_app_drawer_pressed=0x7f02001b;
+        public static final int exp_do_indrawer=0x7f02001c;
+        public static final int ic_launcher=0x7f02001d;
+        public static final int preview=0x7f02001e;
     }
     public static final class id {
         public static final int action_settings=0x7f090000;
