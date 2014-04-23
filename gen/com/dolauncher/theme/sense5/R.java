@@ -52,13 +52,12 @@ public final class R {
         public static final int dofeed_bg=0x7f020015;
         public static final int dofeed_clock=0x7f020016;
         public static final int dofeed_loading=0x7f020017;
-        public static final int dssadf=0x7f020018;
-        public static final int exp_do_app_drawer=0x7f020019;
-        public static final int exp_do_app_drawer_normal=0x7f02001a;
-        public static final int exp_do_app_drawer_pressed=0x7f02001b;
-        public static final int exp_do_indrawer=0x7f02001c;
-        public static final int ic_launcher=0x7f02001d;
-        public static final int preview=0x7f02001e;
+        public static final int exp_do_app_drawer=0x7f020018;
+        public static final int exp_do_app_drawer_normal=0x7f020019;
+        public static final int exp_do_app_drawer_pressed=0x7f02001a;
+        public static final int exp_do_indrawer=0x7f02001b;
+        public static final int ic_launcher=0x7f02001c;
+        public static final int preview=0x7f02001d;
     }
     public static final class id {
         public static final int action_settings=0x7f090000;
