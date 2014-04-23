@@ -83,6 +83,10 @@ public final class R {
  Column Number Of Do-feed 
          */
         public static final int column_number=0x7f060001;
+        /**  Font Size of Do-feed Clock In DP 
+ You can also change the font via changing the font in assets/fonts 
+         */
+        public static final int do_feed_clock_font_size=0x7f060005;
         public static final int hello_world=0x7f060004;
     }
     public static final class style {

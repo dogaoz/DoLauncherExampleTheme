@@ -16,5 +16,9 @@
 	<!-- Everything else -->
 	    <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    
+     <!-- Font Size of Do-feed Clock In DP -->
+     <!-- You can also change the font via changing the font in assets/fonts -->
+    <string name="do_feed_clock_font_size">24</string>
 	
 </resources>
